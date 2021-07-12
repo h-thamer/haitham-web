@@ -8,3 +8,7 @@
     position: absolute;
     left: -1000px;
 }
+
+.dropdown-menu.show {
+    min-width: 400px;
+}
